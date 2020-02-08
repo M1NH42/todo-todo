@@ -1,6 +1,11 @@
 This file will contain my day to day work...
 
 8th feb 2020, Saturday
+
     - Worked on my portfolio website
     - Learnt about different LICENCES in github repo
     - Added a LICENCE to my github repo
+
+9th feb 2020, Sunday
+    - Wrting javascript for my portfolio website
+    - 
