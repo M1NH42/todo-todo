@@ -10,3 +10,4 @@ This file will contain my day to day work...
     - Wrting javascript for my portfolio website
     - Taking cpp course from udemy
     - Will create a repo for learning cpp and put all my codes in that repo
+    - planning to be regular with coding and stuff
