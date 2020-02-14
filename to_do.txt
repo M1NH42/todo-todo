@@ -11,3 +11,8 @@ This file will contain my day to day work...
     - Taking cpp course from udemy
     - Will create a repo for learning cpp and put all my codes in that repo
     - planning to be regular with coding and stuff
+
+14th feb 2020, Friday
+    -Taking c++ course on udemy
+    -revising basics to advance concepts thoroughly
+    -Completed fundaments and essential fundaments of the above course
