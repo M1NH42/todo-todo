@@ -16,3 +16,10 @@ This file will contain my day to day work...
     -Taking c++ course on udemy
     -revising basics to advance concepts thoroughly
     -Completed fundaments and essential fundaments of the above course
+    -learnt about program development which include
+    -a) editing
+    -b) compiling
+    -c) linking
+    -d) loading
+    -e) execution
+    -got to know what happens behind these steps
