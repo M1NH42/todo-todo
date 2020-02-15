@@ -15,7 +15,7 @@ This file will contain my day to day work...
 14th feb 2020, Friday
     -Taking c++ course on udemy
     -revising basics to advance concepts thoroughly
-    -Completed fundaments and essential fundaments of the above course
+    -Completed fundamentals and essential fundamentals of the above course
     -learnt about program development which include
     -a) editing
     -b) compiling
@@ -23,3 +23,7 @@ This file will contain my day to day work...
     -d) loading
     -e) execution
     -got to know what happens behind these steps
+
+15th feb 2020, Saturday
+    -completed c++ basics from udemy course
+    -payed around with codes
