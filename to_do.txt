@@ -27,3 +27,8 @@ This file will contain my day to day work...
 15th feb 2020, Saturday
     -completed c++ basics from udemy course
     -payed around with codes
+
+16th feb 2020, Sunday
+    -completed conditional statements and loops
+    -written all the codes
+    -pushed codes to github
