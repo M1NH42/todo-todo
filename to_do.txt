@@ -36,3 +36,5 @@ This file will contain my day to day work...
 17th feb 2020, Monday
     -completed array chapter from udemy course
     -pushed all the codes to github
+    -completed pointers
+    -learnt reference in cpp
