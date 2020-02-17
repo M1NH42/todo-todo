@@ -32,3 +32,7 @@ This file will contain my day to day work...
     -completed conditional statements and loops
     -written all the codes
     -pushed codes to github
+
+17th feb 2020, Monday
+    -completed array chapter from udemy course
+    -pushed all the codes to github
