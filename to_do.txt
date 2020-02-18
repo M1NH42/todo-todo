@@ -40,4 +40,5 @@ This file will contain my day to day work...
     -learnt reference in cpp
 
 18th feb 2020, Tuesday
-    -
+    -completed functions in cpp from udemy course
+    -pushed all the codes to github
