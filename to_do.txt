@@ -38,3 +38,6 @@ This file will contain my day to day work...
     -pushed all the codes to github
     -completed pointers
     -learnt reference in cpp
+
+18th feb 2020, Tuesday
+    -
