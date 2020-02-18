@@ -42,3 +42,7 @@ This file will contain my day to day work...
 18th feb 2020, Tuesday
     -completed functions in cpp from udemy course
     -pushed all the codes to github
+
+19th feb 2020, Wednesday
+    -will be learning data structure and algo for udemy course
+    -will push codes to github
