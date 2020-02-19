@@ -46,5 +46,5 @@ This file will contain my day to day work...
 19th feb 2020, Wednesday
     -will be learning data structure and algo for udemy course
     -will push codes to github
-    -Completed ntroduction part of dsa from udemy
+    -Completed introduction part of dsa from udemy
     -learnt about time and space complexity
