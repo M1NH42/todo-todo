@@ -48,3 +48,9 @@ This file will contain my day to day work...
     -will push codes to github
     -Completed introduction part of dsa from udemy
     -learnt about time and space complexity
+
+20th feb 2020, Thursday
+    -learnt how recursion works
+    -head recursion
+    -tail recursion
+    -tree recursion
