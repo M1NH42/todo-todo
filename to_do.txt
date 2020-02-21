@@ -54,3 +54,7 @@ This file will contain my day to day work...
     -head recursion
     -tail recursion
     -tree recursion
+
+21st feb 2020, Friday
+    -solved few problems with recursion
+    -started with arrays
