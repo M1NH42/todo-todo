@@ -63,3 +63,8 @@ This file will contain my day to day work...
     -Completed array introduction
     -how to represent arrays in stack and heap
     -array using pointers
+
+23rd feb 2020, Sunday
+    -Completed array ADT basics
+    -learnt about some basic operations on arrays
+    -pushed codes to github
