@@ -68,3 +68,7 @@ This file will contain my day to day work...
     -Completed array ADT basics
     -learnt about some basic operations on arrays
     -pushed codes to github
+
+24th feb 2020, Monday
+    -worked on some array questions
+    -learning new concepts
