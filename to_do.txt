@@ -72,3 +72,7 @@ This file will contain my day to day work...
 24th feb 2020, Monday
     -worked on some array questions
     -learning new concepts
+
+28th feb 2020. Friday
+    -linear search
+    -binary search
