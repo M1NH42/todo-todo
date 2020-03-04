@@ -73,6 +73,30 @@ This file will contain my day to day work...
     -worked on some array questions
     -learning new concepts
 
-28th feb 2020. Friday
+28th & 29th feb 2020. Friday
     -linear search
     -binary search
+
+1st march 2020, Sunday
+    -various array adt operations
+    1. set()
+    2. Max()
+    3. get()
+    4. Sum()
+    5. Min()
+    6. Avg()
+
+    - operations on sorted arrays(refer to github learn-dsa repo)
+
+2nd march 2020, Monday
+    -Merging two sorted arrays by different methods
+    -difference between arrays
+
+3rd march 2020, Tuesday
+    - various set operations
+
+4th march 2020, Wednesday
+    -String
+    -changing case of strings
+    -counting vowels and consosnents
+    -counting words
