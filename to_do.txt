@@ -106,3 +106,4 @@ This file will contain my day to day work...
 
 7th march 2020, Saturday
     -starting with matrices
+    -implemented various types of matrices
