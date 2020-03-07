@@ -100,3 +100,9 @@ This file will contain my day to day work...
     -changing case of strings
     -counting vowels and consosnents
     -counting words
+
+5th & 6th march, Thursday and Friday
+    -worked on some string problems
+
+7th march 2020, Saturday
+    -starting with matrices
