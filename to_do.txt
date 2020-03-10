@@ -112,3 +112,7 @@ This file will contain my day to day work...
     -Lower triangular matrix using:
     1. row major
     2. Column major
+
+9th march 2020, Monday
+    -Coded lower triangular matrix
+    -with some of its major operations
