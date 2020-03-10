@@ -116,3 +116,9 @@ This file will contain my day to day work...
 9th march 2020, Monday
     -Coded lower triangular matrix
     -with some of its major operations
+
+10th march 2020, Tuesday
+    -upper triangular matrix
+    -its important operations like
+    1. set()
+    2. get() to retrieve the value at the upper triangular indices
