@@ -122,3 +122,8 @@ This file will contain my day to day work...
     -its important operations like
     1. set()
     2. get() to retrieve the value at the upper triangular indices
+
+13th march 2020, Friday
+    -symmetric matrix
+    -tri-diagonal matrix
+    -toeplitz matrix
