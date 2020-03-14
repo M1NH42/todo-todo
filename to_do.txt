@@ -130,4 +130,4 @@ This file will contain my day to day work...
 
 14th march 2020, Saturday
     -Coded above matrices
-    -pushed to github
+    -pushed to github.com
