@@ -127,3 +127,7 @@ This file will contain my day to day work...
     -symmetric matrix
     -tri-diagonal matrix
     -toeplitz matrix
+
+14th march 2020, Saturday
+    -Coded above matrices
+    -pushed to github
