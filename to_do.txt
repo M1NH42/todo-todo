@@ -131,3 +131,7 @@ This file will contain my day to day work...
 14th march 2020, Saturday
     -Coded above matrices
     -pushed to github.com
+
+15th march 2020, Sunday
+    -sparse matrix
+    -po;ynomial representation
