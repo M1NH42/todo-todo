@@ -136,3 +136,5 @@ This file will contain my day to day work...
     -sparse matrix
     -polynomial representation
 
+16th march 2020, Monday
+    -
