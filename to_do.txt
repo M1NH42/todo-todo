@@ -138,3 +138,8 @@ This file will contain my day to day work...
 
 16th march 2020, Monday
     -
+
+29th march 2020, Sunday
+    - Completed python basic course of python specialization
+    - Started with new course of same specialization
+    1. Python functions, files and dictionaries
