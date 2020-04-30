@@ -143,3 +143,11 @@ This file will contain my day to day work...
     - Completed python basic course of python specialization
     - Started with new course of same specialization
     1. Python functions, files and dictionaries
+
+
+Will continue to keep track of my daily work from now onwards...
+
+30th April 2020, Tuesday
+    - Started with introduction to machine learning crash course offered by kaggle.
+    - Completed python specialization, pandas and data visualization using seaborn lib.
+    - Rivising linked list and it's most common operations
