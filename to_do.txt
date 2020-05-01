@@ -151,3 +151,7 @@ Will continue to keep track of my daily work from now onwards...
     - Started with introduction to machine learning crash course offered by kaggle.
     - Completed python specialization, pandas and data visualization using seaborn lib.
     - Rivising linked list and it's most common operations
+
+1st May 2020, Wednesday
+    - starting with Intermediate Machine Learning course offered by kaggle
+    - will be taking some good mathematics course useful for data science career
