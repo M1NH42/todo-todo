@@ -158,3 +158,6 @@ Will continue to keep track of my daily work from now onwards...
 
 2nd May 2020, Saturday
     - Completed Intermediate Machine Learning course
+
+4th May 2020, Monday
+    - starting with data analysis project to revise and test knowledge of the concepts learnt
