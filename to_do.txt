@@ -161,3 +161,7 @@ Will continue to keep track of my daily work from now onwards...
 
 4th May 2020, Monday
     - starting with data analysis project to revise and test knowledge of the concepts learnt
+
+
+/* From today will focus more on DATA SCIENCE than software engineering */
+/* will regularly update my progess in the both the fields */
