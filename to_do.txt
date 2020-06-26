@@ -165,3 +165,8 @@ Will continue to keep track of my daily work from now onwards...
 
 /* From today will focus more on DATA SCIENCE than software engineering */
 /* will regularly update my progess in the both the fields */
+
+26th June 2020, Friday : 
+    - I'm in week two first course of deep learning
+    - have assignment due this week
+    - will be building a new project in Django (a python web framework)
