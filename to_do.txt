@@ -163,9 +163,19 @@ Will continue to keep track of my daily work from now onwards...
     - starting with data analysis project to revise and test knowledge of the concepts learnt
 
 
+<<<<<<< HEAD
 /* starting codechef data structure and algorithms syllabus to practice programming */
 
 28th June 2020, Sunday
     - Start with foundation
     - revise basic concepts
     - started 3rd week of deep learning specialization course's first course
+=======
+/* From today will focus more on DATA SCIENCE than software engineering */
+/* will regularly update my progess in the both the fields */
+
+26th June 2020, Friday : 
+    - I'm in week two first course of deep learning
+    - have assignment due this week
+    - will be building a new project in Django (a python web framework)
+>>>>>>> b4c9f05d4afabf31d67a8b4411bd110adef872d0
