@@ -168,3 +168,4 @@ Will continue to keep track of my daily work from now onwards...
 28th June 2020, Sunday
     - Start with foundation
     - revise basic concepts
+    - started 3rd week of deep learning specialization course's first course
