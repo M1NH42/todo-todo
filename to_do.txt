@@ -179,3 +179,6 @@ Will continue to keep track of my daily work from now onwards...
     - have assignment due this week
     - will be building a new project in Django (a python web framework)
 >>>>>>> b4c9f05d4afabf31d67a8b4411bd110adef872d0
+
+1st July 2020,Wednesday
+    - 
