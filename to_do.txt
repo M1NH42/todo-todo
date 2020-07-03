@@ -182,3 +182,7 @@ Will continue to keep track of my daily work from now onwards...
 
 2nd July 2020, Thursday
     - Intro to openCV
+
+3rd July 2020, Friday
+    - Completed first week study material of CNN
+    - foundations of CNN(Convolutional Neural Network)
