@@ -186,3 +186,6 @@ Will continue to keep track of my daily work from now onwards...
 3rd July 2020, Friday
     - Completed first week study material of CNN
     - foundations of CNN(Convolutional Neural Network)
+
+7th July 2020, Tuesday
+    - Siamese Network for face recognition
