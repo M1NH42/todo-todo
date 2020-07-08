@@ -189,3 +189,6 @@ Will continue to keep track of my daily work from now onwards...
 
 7th July 2020, Tuesday
     - Siamese Network for face recognition
+
+8th July 2020, Wednesday
+    - completed 4th course of DEEP LEARNING SPECIALIZATION ie CNN(Convolutional Neural Network)
