@@ -196,4 +196,7 @@ Will continue to keep track of my daily work from now onwards...
 18th July 2020, Saturday
     - Sta SQL for data science
     - completed ER Model, primary key(PK), foreign key(FK)
-    - 
+    
+19th July 2020, Sunday
+    - Comparision between SQL and NOSQL
+    - creating tables and adding comments
