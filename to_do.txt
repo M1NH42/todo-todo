@@ -200,3 +200,6 @@ Will continue to keep track of my daily work from now onwards...
 19th July 2020, Sunday
     - Comparision between SQL and NOSQL
     - creating tables and adding comments
+
+21th July 2020, Tuesday
+    - 
