@@ -203,3 +203,6 @@ Will continue to keep track of my daily work from now onwards...
 
 21th July 2020, Tuesday
     - 
+
+22nd July 2020, Wednesday
+    - Finally got my machine learning scholarship course offered by IBM
