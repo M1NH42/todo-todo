@@ -213,3 +213,6 @@ Will continue to keep track of my daily work from now onwards...
 
 5th December 2020, Saturday
     - Histogram plot
+
+6th December 2020, Sunday
+    - EDA on iris dataset
